@@ -1,3 +1,3 @@
 I work around Neural Nets and Data.
 
-[Explore more](https://ashimsharma10.github.io)
+More at : [my site](https://ashimsharma10.github.io)
